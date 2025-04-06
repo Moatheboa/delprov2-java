@@ -1,0 +1,1 @@
+This Java program reads sensor data for multiple trees from specified file paths and calculates their total sensor value. The program checks if the total value is within a healthy range (between 75 and 85). If the total value falls outside this range, it will display a warning for that tree.
